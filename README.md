@@ -1,5 +1,3 @@
-# Atwood
-Atwood Machine Ghina
 // ╔══════════════════════════════════════════════════════════════╗
 // ║          ATWOOD MACHINE — ESP32 + Blynk Firmware             ║
 // ║  Physics corrected: a = 2d/t²  (from rest, uniform accel)    ║
